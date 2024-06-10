@@ -4,7 +4,7 @@ export default function Footer() {
             <div className="flex justify-center">
                 <div className="flex flex-col justify-center">
                     <p>&copy; 2021 NetFilms</p>
-                    <p>All rights reserved.</p>
+                    <p>All rights reserved...</p>
                 </div>
             </div>
         </footer>
